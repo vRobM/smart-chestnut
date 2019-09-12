@@ -48,14 +48,12 @@ sections:
   section_id: faq
   title: Frequently Asked Questions
   component: FaqBlock
-  subtitle: Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.
+  subtitle: 'Dare to ask? Please do! '
   bg: gray
   faqitems:
-  - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-    answer: Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-      tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus mollis feugiat.
-      Praesent nibh libero, placerat et justo at, luctus tristique enim. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - question: Why should I hire you?
+    answer: Honestly, you could spend your funds on Ice Cream instead, but that won't
+      help you get things done. That's why we're here. GTD.
   - question: Aliquam eget purus ante?
     answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
       eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
