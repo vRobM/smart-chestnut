@@ -33,12 +33,12 @@ sections:
     - label: Order Now
       url: "/signup"
   - title: Enterprise
-    price: "$149/m"
+    price: "$5000"
     details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
+      * Smart Chestnut enterprise discussion
+      * Access to Smart Chestnut enterprise network
+      * Smart Chestnut culture assessment
+      * Smart Chestnut mental pro program
     actions:
     - label: Order Now
       url: "/signup"
