@@ -54,9 +54,11 @@ sections:
   - question: Why should I hire you?
     answer: Honestly, you could spend your funds on Ice Cream instead, but that won't
       help you get things done. That's why we're here. GTD.
-  - question: Aliquam eget purus ante?
-    answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-      eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
+  - question: Why do you cost so much?
+    answer: |-
+      We're real people with real limitations on time in our lifetimes.
+
+      No time for tire-kickers or hrm'n & haw'n.
   - question: Sed scelerisque in ipsum eu sollicitudin?
     answer: Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac dignissim
       nisi mollis eget. Ut vitae nisi sit amet nisi suscipit dictum faucibus eget
