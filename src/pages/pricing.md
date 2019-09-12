@@ -59,13 +59,11 @@ sections:
       We're real people with real limitations on time in our lifetimes.
 
       No time for tire-kickers or hrm'n & haw'n.
-  - question: Sed scelerisque in ipsum eu sollicitudin?
-    answer: Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac dignissim
-      nisi mollis eget. Ut vitae nisi sit amet nisi suscipit dictum faucibus eget
-      magna. Vivamus in hendrerit magna, non pellentesque metus. Morbi orci odio,
-      dictum at efficitur sit amet, luctus in ipsum. Nunc pellentesque mi vel dui
-      vulputate, a lobortis lacus venenatis. Phasellus pellentesque dolor id feugiat
-      faucibus. Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+  - question: How can you possibly know so much?
+    answer: "We pride ourselves on having spent a portion of our life experience as
+      Generalists, hence we bring lots of breadth to the conversation.  \nAt the same
+      time, deep dives into a myriad problems gives us expertise to make it hurt much
+      less.  \nWe look at the big picture so you can focus on a few."
 menus:
   main:
     title: Pricing
