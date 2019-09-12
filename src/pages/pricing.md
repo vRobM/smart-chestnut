@@ -21,13 +21,13 @@ sections:
       url: "/signup"
     highlight: false
   - title: Professional
-    price: "$49/m"
+    price: "$1500"
     details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
+      * All of Smart Chestnut Basic
+      * Access to Smart Chestnut business network
+      * Smart Chestnut product review
+      * Smart Chestnut market review
+      * Access to Smart Chestnut funding network
     highlight: true
     actions:
     - label: Order Now
