@@ -4,10 +4,10 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: This Is A Big Hero Headline
+  title: Get Wisdom As A Service
   component: HeroBlock
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: Smart Chestnut is the perfect service for developers, designers and entrepreneurs
+    who need a no frills, modern WaaS trusted party.
   image: images/hero.png
   actions:
   - label: Learn More
